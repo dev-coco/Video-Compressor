@@ -1,4 +1,4 @@
-# Video Compressor (Ultra-Fast Compression)
+# Video Compressor
 
 A lightweight, high-performance batch video compression tool designed specifically for macOS. Built with SwiftUI for a native interface, it features a minimalist design with no complicated configuration—just drag and use.
 
